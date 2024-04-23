@@ -23,3 +23,8 @@ We encourage responsible disclosure of security vulnerabilities. We believe that
 ## Contact
 
 For any questions or concerns regarding security, please contact us at [security@axonivy.com](mailto:security@axonivy.com).
+
+
+
+
+

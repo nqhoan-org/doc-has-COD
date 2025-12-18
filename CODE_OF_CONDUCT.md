@@ -1,4 +1,4 @@
-## Our Pledge
+## Our Pledge - Test
 
 We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone.
 As part of the Ricoh Group, Axon Ivy is guided by [The spirit of the three loves](https://www.ricoh.com/about/ricoh-way):
@@ -22,3 +22,4 @@ This repository is intended to facilitate a friendly and inspiring exchange in w
 - Be respectful.
 - Be careful in the words that you choose.
 - When we disagree, try to understand why.
+
